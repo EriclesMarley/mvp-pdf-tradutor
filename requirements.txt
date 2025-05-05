@@ -5,3 +5,4 @@ torch
 pymupdf
 sentence-transformers
 protobuf
+sentencepiece
