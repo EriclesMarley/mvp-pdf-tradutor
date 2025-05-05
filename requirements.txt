@@ -3,3 +3,4 @@ pdfplumber
 transformers
 torch
 pymupdf
+sentence-transformers
