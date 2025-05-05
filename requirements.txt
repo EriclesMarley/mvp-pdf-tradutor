@@ -4,3 +4,4 @@ transformers
 torch
 pymupdf
 sentence-transformers
+protobuf
